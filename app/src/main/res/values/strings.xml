@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World App</string>
+    <string name="increase">Increment</string>
+    <string name="zero">0</string>
+</resources>
